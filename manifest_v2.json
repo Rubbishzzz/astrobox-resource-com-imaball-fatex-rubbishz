@@ -1,0 +1,41 @@
+{
+  "item": {
+    "id": "com.imaball.fatex.rubbishz",
+    "restype": "quick_app",
+    "name": "imaball",
+    "description": "一个搜打撤游戏，由FATE X出品，售价1.99RMB\n其他屏幕适配工作进行中......",
+    "preview": [
+      "media/9p-2026-11-13-21-52-48.png",
+      "media/9p-2026-11-13-21-53-03.png",
+      "media/9p-2026-11-13-21-53-36.png",
+      "media/9p-2026-11-13-21-53-49.png",
+      "media/9p-2026-11-13-21-54-12.png",
+      "media/9p-2026-11-13-21-54-21.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/容器 354 (1).png",
+    "author": [
+      {
+        "name": "Rubbish_Z",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "QQ交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=4RlIL5R3VakYLezVZ7dX%2F00oID9Y%2BP54kiGLdw8OtoZbsEf83C0Xn0Oc56bZB1ie&busi_data=eyJncm91cENvZGUiOiI3MDE1OTI1NjciLCJ0b2tlbiI6Ik9Db21yOVd1QjM1TndER3dRNi9ya3oyUEhFcmllVDBwVStZdm9XdUc4MC9RbUFRQ21xaG5rRjRVMUhwaEFyUmMiLCJ1aW4iOiIxNDgxNzA1MTM2In0%3D&data=i1cKFnoZhkR3qZjFubRCAMwd8QcGWsyc3xIj71aCH0Iw6u58xeZA_DUtBQ-RukvjG-u9MgHYDBAcHzWfzOOrcg&svctype=4&tempid=h5_group_info",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.imaball.fatex.rubbishz.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
